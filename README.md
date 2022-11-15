@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arthur
+- 👋 Hi, I’m ACC4490 A.K.A Arthur
 - 👀 I’m interested in Tech, SRE and BackEnd engineers story
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking to collaborate on your next career move
